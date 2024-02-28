@@ -1,1 +1,3 @@
-# Implementation of the Hierarchichal Temporal Memory model (HTM)
+# HTM
+
+## Project: Python implementation of the Hierarchichal Temporal Memory(HTM) model based on Jeff Hawkin's theory.
