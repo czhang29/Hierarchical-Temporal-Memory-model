@@ -19,8 +19,7 @@ The repository includes the following key components:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/HTM_vanilla.git
-   cd HTM_vanilla/HTM_v3
+   git clone https://github.com/czhang29/Hierarchical-Temporal-Memory-model.git
    ```
 
 2. **Install Dependencies**: Ensure you have Python installed, along with any dependencies listed in `requirements.txt`.
